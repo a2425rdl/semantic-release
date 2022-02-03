@@ -1,4 +1,4 @@
-{
+{lll
   "name": "semantic-release",
   "description": "Automated semver compliant package publishing",
   "version": "0.0.0-development",
@@ -93,7 +93,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "nyc": {
+  "nyc": {package.json
     "include": [
       "lib/**/*.js",
       "index.js",
