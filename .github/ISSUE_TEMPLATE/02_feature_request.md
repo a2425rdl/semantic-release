@@ -1,4 +1,4 @@
----
+---semantic-release/.github/ISSUE_TEMPLATE/02_feature_request.md
 name: Feature request
 about: Wouldn’t it be nice if semantic-release could ...
 
