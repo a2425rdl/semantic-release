@@ -1,4 +1,4 @@
-{
+{lll
   "name": "semantic-release",
   "description": "Automated semver compliant package publishing",
   "version": "0.0.0-development",
@@ -55,7 +55,7 @@
     "codecov": "3.8.3",
     "delay": "5.0.0",
     "dockerode": "3.3.1",
-    "file-url": "3.0.0",
+    "file-url": "4.0.0",
     "fs-extra": "9.1.0",
     "got": "11.8.3",
     "js-yaml": "4.1.0",
@@ -93,7 +93,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "nyc": {
+  "nyc": {package.json
     "include": [
       "lib/**/*.js",
       "index.js",
